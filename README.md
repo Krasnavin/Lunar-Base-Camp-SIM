@@ -1,5 +1,5 @@
 # Lunar-Base-Camp-SIM
-# Example code for NASA VIPER movementon moon
+# Example code for NASA VIPER movement on moon
 #Move to left mouse click
 extends KinematicBody2D
 export (int) var speed = 18
